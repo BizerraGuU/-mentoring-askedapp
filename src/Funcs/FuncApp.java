@@ -54,7 +54,13 @@ public class FuncApp {
 	}
 	
 	public void ListRestaurant() {
-		
+		if (listRestaurants.isEmpty()) {
+			System.out.println("No restaurants registered");
+		} else {
+			for (Restaurant restaurant : listRestaurants) {
+				System.out.println(restaurant);
+			}
+		}
 	}
 	
 	public void ChangeRestaurantStatus(){
