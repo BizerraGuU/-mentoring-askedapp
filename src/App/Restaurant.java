@@ -49,4 +49,26 @@ public class Restaurant {
 	    ", phoneNumRestaurant='" + phoneNumRestaurant + '\'' +
 	    '}';
 	    }
+
+	public void setNameRestaurant(String nameRestaurant) {
+		this.nameRestaurant = nameRestaurant;
+	}
+
+	public void setEmailRestaurante(String emailRestaurante) {
+		this.emailRestaurante = emailRestaurante;
+	}
+
+	public void setCategoryRestaurant(String categoryRestaurant) {
+		this.categoryRestaurant = categoryRestaurant;
+	}
+
+	public void setStatusRestaurant(boolean statusRestaurant) {
+		this.statusRestaurant = statusRestaurant;
+	}
+
+	public void setPhoneNumRestaurant(String phoneNumRestaurant) {
+		this.phoneNumRestaurant = phoneNumRestaurant;
+	}
+	   
+	   
 }
