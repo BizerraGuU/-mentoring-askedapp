@@ -2,7 +2,7 @@
 
 ## Why "askedapp"?
 
-I have been mentoring with my cousin, and it was given to me by him so that I could create a Java algorithm with the following features, of a Restaurant algorithm:
+I have been mentoring with my cousin, and it was given to me by him so that I could create an algorithm with the following features, of a Restaurant algorithm:
 |Features|What to Do|
 |-|-|
 |```1. Register Restaurants```|At this stage, the user is asked to enter the name of the restaurant they wish to register and what category the restaurant is. And, recently, it was requested to add the address, email and telephone number to be registered|
