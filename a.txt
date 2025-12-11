@@ -1,0 +1,11 @@
+das features que coloquei, eu preciso fazer:
+
+1. Post: conseguir registar novos restaurantes com todos os dados (provavelmente vou usar JSON)
+mas talves utilize xml tbm pra deixar mais bonitinho.
+2. Get: Listar todos os restaurantes;
+3. Update: atualizar algum dado do restaurante.
+4. Sair.
+
+desafio:
+5. Get: criar uma busca por filtro com qualquer uma das opções:
+    - address, name, email, telephone number and category, and restaurant status.
